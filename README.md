@@ -45,7 +45,7 @@ This project focuses on detecting fraudulent credit card transactions using supe
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/credit-card-fraud-detection.git
+git clone https://github.com/Suvo33/credit-card-fraud-detection.git
 cd credit-card-fraud-detection
 ```
 
