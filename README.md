@@ -27,6 +27,7 @@ This project focuses on detecting fraudulent credit card transactions using supe
 - Pandas, NumPy
 - Matplotlib, Seaborn
 - Scikit-learn
+- streamlit
 
 ---
 
@@ -60,7 +61,7 @@ pip install -r requirements.txt
 Or manually install:
 
 ```bash
-pip install numpy pandas matplotlib seaborn scikit-learn jupyter
+pip install numpy pandas matplotlib seaborn scikit-learn jupyter streamlit
 ```
 
 ### 3. Run the Notebook
