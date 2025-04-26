@@ -79,6 +79,6 @@ Open the notebook and execute the cells in order.
 
 - Displays evaluation metrics like accuracy
 - Visualizes correlation and class distribution
-- Demonstrates model performance before and after under-sampling
+- Demonstrates model performance before and after hyperparameter tuning
 
 
